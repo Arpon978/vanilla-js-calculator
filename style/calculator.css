@@ -1,0 +1,26 @@
+.calculator-button{
+  height: 60px;
+  width: 60px;
+  border: none;
+  border-radius: 60px;
+  cursor: pointer;
+  margin-right: 5px;
+  font-size: 20px;
+}
+.gray-button{
+  background-color: rgb(51, 51, 51);
+  color: white;
+}
+.orange-button{
+  background-color: rgb(254, 160, 10);
+  color: white;
+}
+.clear-button{
+  font-size: 16px;
+}
+.calculation{
+   color: black;
+   font-size: 45px;
+   margin-top: 15px;
+   margin-bottom: 5px;
+}
